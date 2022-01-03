@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            96:85:29:70:50:5a:43:95:7d:43:9d:6c:6e:b7:b6:2e
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=detox2
+        Validity
+            Not Before: Jan  3 05:37:56 2022 GMT
+            Not After : Dec 18 05:37:56 2024 GMT
+        Subject: CN=detox2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:91:a5:a4:74:f2:00:38:5f:5c:31:be:d6:d3:
+                    24:a8:f6:33:ad:92:ff:4f:cf:71:5c:d4:96:4e:c4:
+                    28:0d:9d:b7:ff:bb:33:61:4f:92:24:9c:11:40:92:
+                    9e:86:4a:84:b2:d0:e9:b8:b2:5d:5b:42:2c:0d:27:
+                    18:56:16:d5:1c:a0:41:4f:a9:b5:53:ab:88:a1:85:
+                    c7:34:3b:72:da:af:ed:1a:15:4c:51:c0:19:34:8d:
+                    5e:05:9e:bb:5f:d8:c9:14:67:22:be:6c:62:d1:ea:
+                    f3:6a:fb:0d:3f:aa:eb:c1:5d:6d:94:b3:a7:50:ab:
+                    c3:65:a0:9c:0d:ad:37:38:0b:20:70:58:c3:29:92:
+                    81:7e:04:11:70:2f:61:02:da:80:e9:bd:89:b3:47:
+                    71:b6:6c:5f:dc:37:0e:a9:b3:af:24:d7:24:ea:97:
+                    83:f6:76:c5:4f:51:9c:e8:1a:63:9f:b1:c0:a4:91:
+                    9f:ce:26:e0:61:04:e7:ad:46:62:f8:e0:c2:3c:45:
+                    10:bb:d3:41:1a:bb:63:91:25:5a:6e:3c:60:ab:89:
+                    a2:b1:fe:47:d7:a1:73:ee:d1:13:15:74:dd:a5:50:
+                    ec:7b:ea:69:9d:43:0b:4c:82:3d:dd:72:34:d8:24:
+                    1a:e8:5f:a7:a8:1f:1e:44:24:39:e0:da:4c:a5:28:
+                    5d:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                AD:DD:90:E5:FC:6F:B4:8D:0E:D3:D6:F7:7E:31:3F:0D:E3:E9:7F:CB
+            X509v3 Authority Key Identifier: 
+                keyid:E2:2E:F2:F6:BB:05:CC:66:83:8A:44:46:0C:19:89:A5:7B:2D:18:9D
+                DirName:/CN=detox2
+                serial:6E:D6:88:2B:65:97:AA:A6:95:98:E3:97:50:22:C3:13:0E:49:8F:F1
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:detox2
+    Signature Algorithm: sha256WithRSAEncryption
+         97:51:72:32:1f:17:df:46:67:70:b6:bb:5b:64:b7:48:5d:e9:
+         fd:2a:22:d3:28:6b:09:dd:c9:ad:9b:3c:a4:f5:26:dc:a6:05:
+         03:fb:31:91:0e:ef:22:3c:89:57:e5:63:af:8f:68:8a:25:b0:
+         9b:d1:35:e5:1c:ff:fe:5c:b8:ee:fc:4e:20:ac:ce:72:87:35:
+         f3:42:4c:06:78:94:5a:c1:d0:19:93:84:08:a0:0b:e4:1b:4a:
+         a3:f7:92:71:d1:cf:30:b7:01:3f:02:a5:a5:14:97:51:f1:dc:
+         67:3a:1c:ab:13:7f:25:a2:f9:88:4c:c2:20:fc:12:ce:3c:f9:
+         75:2e:f6:e0:bb:91:58:c3:e6:56:76:9c:56:92:03:2a:f2:77:
+         ce:ea:bc:8c:8f:ef:8f:d6:f7:43:10:57:73:9b:9e:58:35:a4:
+         0d:b9:21:5c:e5:73:8b:99:98:41:a5:6b:d6:bd:ff:71:c4:8e:
+         04:b3:6d:9c:82:62:d5:f6:1b:b8:bf:e1:ab:4d:08:95:e2:6d:
+         44:a2:a3:e4:bd:36:cd:6b:02:c2:a7:7b:6b:c7:74:ad:a5:06:
+         c4:59:b7:3b:d3:77:06:5f:3e:54:27:7c:d7:53:b5:cc:c9:63:
+         d3:63:64:ad:f0:de:52:71:2b:20:0c:d5:49:2b:48:a4:52:54:
+         0e:8a:ee:01
+-----BEGIN CERTIFICATE-----
+MIIDXjCCAkagAwIBAgIRAJaFKXBQWkOVfUOdbG63ti4wDQYJKoZIhvcNAQELBQAw
+ETEPMA0GA1UEAwwGZGV0b3gyMB4XDTIyMDEwMzA1Mzc1NloXDTI0MTIxODA1Mzc1
+NlowETEPMA0GA1UEAwwGZGV0b3gyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAwpGlpHTyADhfXDG+1tMkqPYzrZL/T89xXNSWTsQoDZ23/7szYU+SJJwR
+QJKehkqEstDpuLJdW0IsDScYVhbVHKBBT6m1U6uIoYXHNDty2q/tGhVMUcAZNI1e
+BZ67X9jJFGcivmxi0erzavsNP6rrwV1tlLOnUKvDZaCcDa03OAsgcFjDKZKBfgQR
+cC9hAtqA6b2Js0dxtmxf3DcOqbOvJNck6peD9nbFT1Gc6Bpjn7HApJGfzibgYQTn
+rUZi+ODCPEUQu9NBGrtjkSVabjxgq4misf5H16Fz7tETFXTdpVDse+ppnUMLTII9
+3XI02CQa6F+nqB8eRCQ54NpMpShdQQIDAQABo4GwMIGtMAkGA1UdEwQCMAAwHQYD
+VR0OBBYEFK3dkOX8b7SNDtPW934xPw3j6X/LMEwGA1UdIwRFMEOAFOIu8va7Bcxm
+g4pERgwZiaV7LRidoRWkEzARMQ8wDQYDVQQDDAZkZXRveDKCFG7WiCtll6qmlZjj
+l1AiwxMOSY/xMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDARBgNV
+HREECjAIggZkZXRveDIwDQYJKoZIhvcNAQELBQADggEBAJdRcjIfF99GZ3C2u1tk
+t0hd6f0qItMoawndya2bPKT1JtymBQP7MZEO7yI8iVflY6+PaIolsJvRNeUc//5c
+uO78TiCsznKHNfNCTAZ4lFrB0BmThAigC+QbSqP3knHRzzC3AT8CpaUUl1Hx3Gc6
+HKsTfyWi+YhMwiD8Es48+XUu9uC7kVjD5lZ2nFaSAyryd87qvIyP74/W90MQV3Ob
+nlg1pA25IVzlc4uZmEGla9a9/3HEjgSzbZyCYtX2G7i/4atNCJXibUSio+S9Ns1r
+AsKne2vHdK2lBsRZtzvTdwZfPlQnfNdTtczJY9NjZK3w3lJxKyAM1UkrSKRSVA6K
+7gE=
+-----END CERTIFICATE-----
